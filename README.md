@@ -1,7 +1,7 @@
 ### Olá! Eu sou Diego de Jesus Alves 👋
 
 - 🔭 Atuamente trabalho com suporte técnico field, porem estou em transição de carreira, pretendo me tornar Desenvolvedor Java Back-End com Spring Boot.
-- 🌱 Estudo atualmente liguagem Java Back-End e Framawork Spring Boot.
+- 🌱 Estudo atualmente liguagem de programação Java Back-End e Framework Spring Boot.
 <div>
   <a href="https://github.com/Djalves424">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Djalves424&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
