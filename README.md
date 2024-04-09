@@ -1,6 +1,6 @@
 ### Olá! Eu sou Diego de Jesus Alves 👋
 
-- Desenvolvedor java junior em transição de carreira, pretendo me tornar Desenvolvedor Java Back-End com Spring Boot.
+- Futuro Desenvolvedor java junior em transição de carreira, pretendo me tornar Desenvolvedor Java Back-End com Spring Boot.
 - Estudo atualmente liguagem de programação Java Back-End e Framework Spring Boot.
 <div>
   <a href="https://github.com/Djalves424">
