@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/Djalves424">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Djalves424&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djalves424&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Djalves424&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 <div>
   
 
