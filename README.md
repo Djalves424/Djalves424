@@ -5,8 +5,8 @@ Sou um Analista de Suporte e Desenvolvedor Java Júnior apaixonado por tecnologi
 Minha experiência em suporte me permitiu desenvolver habilidades de comunicação, gerenciamento de tempo e resolução de problemas, que aplico diariamente no desenvolvimento de software. Estou sempre em busca de novas oportunidades para aprender e crescer, com o objetivo de me tornar um desenvolvedor full-stack altamente capacitado.
 <div>
   <a href="https://github.com/Djalves424">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Djalves424&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Djalves424&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Djalves424&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Djalves424&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 <div>
   
 
