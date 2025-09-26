@@ -1,6 +1,6 @@
 ### Olá! Eu sou Diego de Jesus Alves 👋
 
-Sou um Desenvolvedor Trainee e DevOps Júnior apaixonado por tecnologia e inovação. Com uma base sólida em suporte técnico, estou em transição para o desenvolvimento de software e DevOps, focando em Java, automação de processos e pipelines de CI/CD.
+Sou um Desenvolvedor Júnior e DevOps apaixonado por tecnologia e inovação. Com uma base sólida em suporte técnico, estou em transição para o desenvolvimento de software e DevOps, focando em Java, automação de processos e pipelines de CI/CD.
 
 Minha experiência em suporte me permitiu desenvolver habilidades essenciais, como comunicação eficaz, gerenciamento de tempo e resolução de problemas, que aplico diariamente no desenvolvimento de software e na implementação de práticas DevOps. Estou sempre em busca de novas oportunidades para aprender e crescer, com o objetivo de me tornar um desenvolvedor full-stack altamente capacitado e um profissional DevOps experiente.
 
